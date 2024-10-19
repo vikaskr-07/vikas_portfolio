@@ -209,8 +209,8 @@ const projects = [
       { name: "redux", color: "yellow-text-gradient" }
     ],
     image: jobit,
-    source_code_link: "https://github.com/vikaskr-07/chat-app",
-    live_link: "https://your-live-job-hunt-url.com", // Add live link
+    source_code_link: "https://github.com/vikaskr-07/JobHunt-Frontend",
+    live_link: "https://jobhunt-tau.vercel.app", // Add live link
   },
   {
     name: "ChatApp",
