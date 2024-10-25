@@ -210,7 +210,7 @@ const projects = [
     ],
     image: jobit,
     source_code_link: "https://github.com/vikaskr-07/JobHunt-Frontend",
-    live_link: "https://jobhunt-tau.vercel.app", // Add live link
+    live_link: "https://jobhunt-v4tt.onrender.com", // Add live link
   },
   {
     name: "ChatApp",
